@@ -23,6 +23,7 @@ En este proyecto estaremos creando un carrito de compras para diferentes cursos 
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+- Javascript
 
 ## Autor
 
